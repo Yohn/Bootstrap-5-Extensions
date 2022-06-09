@@ -30,3 +30,27 @@ https://github.com/crpozo/extended-carousel-bs5
 ## Others
 #### Parallax
 https://github.com/nk-o/jarallax
+
+## Awesome Css Finds
+### Not related to bootstrap
+
+#### Hover effects
+https://tympanus.net/Tutorials/3DHoverEffects/index2.html
+https://codepen.io/tonkec/pen/jWmgqN
+#### Button 
+https://codepen.io/tonkec/pen/zbRKKK
+https://codepen.io/atloomer/pen/JEaRWX
+https://webdeasy.de/en/top-css-buttons-en/
+
+#### Form Elements
+https://freebiesupply.com/blog/css-inputs/
+
+#### Loading Screens
+https://freebiesupply.com/blog/css-loaders/
+https://codepen.io/pavelivanov/pen/VWxpgJ
+https://freebiesupply.com/blog/css-background-patterns/
+
+https://codepen.io/bitmap/pen/AzowBq
+
+#### Other frameworkds
+https://github.com/tonkec/awesome-css-frameworks
